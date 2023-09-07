@@ -4,8 +4,7 @@
 
 Steps of the preliminary research informing the design of the initial IAS and the confirmatory factor analysis for evaluation and factor structure analysis
 
-<img width="557" alt="image" src="https://github.com/ipeke/e2ac-research/assets/25520185/98bd3d83-35c9-42a7-903e-188643c91954">
-
+![image](https://github.com/ipeke/e2ac-research/assets/25520185/cfeaf07e-29fb-44f6-8d14-f65850e624c5)
 
 
 
