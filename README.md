@@ -1,4 +1,6 @@
 # e2ac research
+![E2AC-vector](https://github.com/ipeke/e2ac-research/assets/25520185/db9530dd-8192-4665-93f2-b3a97a1675cd)
+
 
 ## Impact Assessment Scale (IAS) design, development, and evaluation: Description of methods and results
 
